@@ -1,0 +1,15 @@
+pid
+player
+frame
+second
+is_local
+name
+game_fully_downloaded
+development_cheats_enabled
+multiplayer_cheats_enabled
+sync_checksumming_enabled
+is_map_to_map_transition
+use_ai_beacons
+starting_rally
+debug_pause_enabled
+base_build_num
