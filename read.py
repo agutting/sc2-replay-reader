@@ -18,6 +18,9 @@ class SC2ReplayData:
         self.mapName = rawReplayData.map_name
         self.timePlayed = datetime.datetime.utcfromtimestamp(rawReplayData.unix_timestamp)
         self.timePlayedPretty = self.timePlayed.strftime('%Y-%m-%d %H:%M:%S')
+   
+# class SC2ReplayParser:
+#     def __init__(self, )
 
 # print('file name: ' + replay.filename)
 # print('replay category: ' + replay.category)
